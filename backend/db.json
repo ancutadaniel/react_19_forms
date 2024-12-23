@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1734950300327,
+      "votes": 9,
+      "userName": "Daniel",
+      "title": "From Action are new",
+      "body": "This is react 19 with form actions hooks like useActionState and useFormStatus (react-dom) to the new way to handle the submission on a form"
+    },
+    {
+      "id": 1734949228926,
+      "votes": 1,
+      "userName": "Daniel",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\\nFor example with this course!"
+    },
+    {
+      "id": 1,
+      "userName": "Daniel",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Daniel",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
